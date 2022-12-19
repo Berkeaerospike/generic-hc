@@ -1,6 +1,5 @@
-# generic-hc
----------------
 #  Generic Healthcheck script
+
 ###### ./generic-hc.sh <path to collect info tgz>
 
 ## Commands list file should reside next to shell script
