@@ -1,0 +1,26 @@
+summary -l
+summary
+info
+show dist object_size -b 
+info set
+health
+health -v
+show distribution time_to_live
+show stat like nsup
+show stat like client_proxy -flip
+show stat like busy -flip
+show stat like sprigs -flip
+show stat like cache_read_pct read-page-cache -flip 
+show stat like compression -flip
+show stat like client_read_timeout client_write_timeout -flip
+show stat like evicted_objects -flip
+show stat like stop_write -flip
+show latencies
+show stat like batch_index_complete batch_index_complete batch_sub_read_success batch_sub_read_not_found -flip
+show config like prefer-uniform-balance -flip
+show config like read-page-cache -flip
+show stat like expi -flip
+show stat like client_delete_success master_tombstones -flip
+show config like proto-fd-max -flip
+show config like min-cluster-size conflict-resolution-policy -flip
+show stat like nsup_cycle nsup-period -flip
