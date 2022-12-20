@@ -10,4 +10,4 @@
 ###### -v is option of health command
   
 ## TODO List
-- [] #Add sysinfo file
+- [] Add sysinfo file check
