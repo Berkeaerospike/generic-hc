@@ -1,6 +1,7 @@
 #  Generic Healthcheck script
 
 ###### ./generic-hc.sh  path to collect info tgz
+#### (Visit https://docs.aerospike.com/tools/asadm/asadm-help) For CollectInfo creation
 ###### Can utilize asadm commands as described in the links below
 
 ## Commands list file should reside next to shell script
