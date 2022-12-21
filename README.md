@@ -9,7 +9,7 @@
 ###### INFO: Please use -v option for more details on failure. - IGNORE
 ###### -v is option of health command
   
-## Commands 
+## Commands (Visit https://docs.aerospike.com/tools/asadm)
 
 | Pupose        | Command |
 | -------------    | ------------- |
