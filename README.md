@@ -1,6 +1,7 @@
 #  Generic Healthcheck script
 
-###### ./generic-hc.sh <path to collect info tgz>
+###### ./generic-hc.sh  path to collect info tgz
+###### Can utilize asadm commands as described in the links below
 
 ## Commands list file should reside next to shell script
 ###### can write output to file  <name of output file>
