@@ -15,7 +15,7 @@
 (Visit https://docs.aerospike.com/tools/asadm 
  Examples: https://docs.aerospike.com/reference/metrics/examples)
 
-| Pupose        | Command | Summary |
+| Pupose        | Command |
 | -------------    | ------------- |
 | Cluster Summary  | `summary -l`  |
 | Namespace Summary  | `summary`  |
