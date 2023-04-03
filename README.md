@@ -15,9 +15,9 @@
 (Visit https://docs.aerospike.com/tools/asadm 
  Examples: https://docs.aerospike.com/reference/metrics/examples)
 
-| Pupose        | Command |
+| Pupose        | Command | Summary |
 | -------------    | ------------- |
-| Cluster Summary  | `summary -l`  |
+| Cluster Summary  | `summary -l`  | vvvv |
 | Namespace Summary  | `summary`  |
 | Sizing Estimate  | `info` `show dist object_size -b`  |
 | Internal Health check  | `health` `health -v`  |
