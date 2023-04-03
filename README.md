@@ -17,7 +17,7 @@
 
 | Pupose        | Command | Summary |
 | -------------    | ------------- |
-| Cluster Summary  | `summary -l`  | vvvv |
+| Cluster Summary  | `summary -l`  |
 | Namespace Summary  | `summary`  |
 | Sizing Estimate  | `info` `show dist object_size -b`  |
 | Internal Health check  | `health` `health -v`  |
